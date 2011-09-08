@@ -1,0 +1,6 @@
+core = "6.x"
+dependencies[] = "menu"
+description = "Menu test"
+name = "F Menu test"
+package = "Features"
+project = "f_menu_test"

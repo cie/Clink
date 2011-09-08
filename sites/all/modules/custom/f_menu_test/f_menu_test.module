@@ -1,0 +1,3 @@
+<?php
+
+include_once('f_menu_test.features.inc');

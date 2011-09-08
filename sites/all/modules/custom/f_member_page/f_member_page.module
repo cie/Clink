@@ -1,0 +1,3 @@
+<?php
+
+include_once('f_member_page.features.inc');
